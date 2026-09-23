@@ -1,5 +1,5 @@
 # Moterv organization profile
 
-`profile/README.md` is the public Moterv organization introduction. The vector under `profile/assets/` is the Moterv corporate website derivative used in the project; it is not an original print master. Brand rights remain with Moterv.
+The public [organization home](profile/README.md) uses Moterv's current corporate and division website vectors in `profile/assets/`. These files are derivatives of the preserved website artwork, not recovered print masters. Brand rights remain with Moterv.
 
-This repository contains public profile content only. Product source and development material belong in the private `moterv/moterv` repository.
+Keep only public company information here. Product source, internal plans, customer data and development evidence belong in the private `moterv/moterv` repository.
